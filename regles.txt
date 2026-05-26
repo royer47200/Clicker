@@ -1,0 +1,11 @@
+Règles du jeu Clicker Minecraft
+
+1. Le but du jeu est d'accumuler des diamants en cliquant sur le diamant central et en achetant des bâtiments.
+2. Chaque bâtiment produit des diamants passivement à intervalle régulier.
+3. Les bâtiments peuvent être achetés un par un, par lots de 10 ou 100.
+4. Les améliorations sont disponibles via le menu d'améliorations, avec des effets sur le clic, la production et la fortune.
+5. Le rebirth permet de repartir à zéro, mais d'obtenir de meilleurs bonus au fil des renaissances.
+6. Les slots permanents offrent des bonus durables qui restent actifs après un rebirth.
+7. La partie peut être sauvegardée automatiquement dans save.txt et reprise plus tard.
+8. La fenêtre statistique permet de suivre les progrès, les succès et les bonus actifs.
+9. Les menus secondaires se ferment grâce à la flèche de retour.

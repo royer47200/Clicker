@@ -1,0 +1,19 @@
+To do:
+
+-Problème de changement d'écran : Résolu, désormais ultra stable avec système de frame et changement d'écran en 1 appel de fonction
+-Problème du background après toutes les modif de widgets avec système de frame : Résolu (Merci Zoé d'oublier de renseigner le window dans les paramètres et de .pack() au lieu de .place()
+-Faire le système de plus t'achettes un batiment plus tu dois payer chère pour en avoir un autre
+-Système de flèche pour switch menu (ez): Résolu
+-Système d'upgrade (up prod batiment etc...)
+-Utilisation du .grid() pour orgarniser les éléments dans le shop   Ex:
+
+'''tk.Label(frame, text="Nom").grid(row=0, column=0)
+tk.Entry(frame).grid(row=0, column=1)
+tk.Label(frame, text="Mot de passe").grid(row=1, column=0)
+tk.Entry(frame).grid(row=1, column=1)'''
+
+Résolu
+
+-Onglet stat
+-Système pve
+-Shop pve(à définir)

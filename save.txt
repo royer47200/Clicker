@@ -1,0 +1,77 @@
+{
+  "achievement_unlocked": {},
+  "bonus_click": 0,
+  "bonus_click_timer": 0,
+  "bonus_production": 0,
+  "bonus_production_timer": 0,
+  "bonus_strength": 1,
+  "building_amounts": {
+    "coal_farm": 0,
+    "cobblestone_farm": 0,
+    "debris_farm": 0,
+    "diamondbat_farm": 0,
+    "dirt_farm": 0,
+    "iron_farm": 0,
+    "oak_farm": 0
+  },
+  "building_list": {
+    "coal_farm": 0,
+    "cobblestone_farm": 0,
+    "debris_farm": 0,
+    "diamondbat_farm": 0,
+    "dirt_farm": 0,
+    "iron_farm": 0,
+    "oak_farm": 0
+  },
+  "building_price_reduction": {
+    "coal_farm": 0.0,
+    "cobblestone_farm": 0.0,
+    "debris_farm": 0.0,
+    "diamondbat_farm": 0.0,
+    "dirt_farm": 0.0,
+    "iron_farm": 0.0,
+    "oak_farm": 0.0
+  },
+  "building_prices": {
+    "coal_farm": 150,
+    "cobblestone_farm": 35,
+    "debris_farm": 1200,
+    "diamondbat_farm": 650,
+    "dirt_farm": 15,
+    "iron_farm": 320,
+    "oak_farm": 70
+  },
+  "building_prod_bonus": {
+    "coal_farm": 0.0,
+    "cobblestone_farm": 0.0,
+    "debris_farm": 0.0,
+    "diamondbat_farm": 0.0,
+    "dirt_farm": 0.0,
+    "iron_farm": 0.0,
+    "oak_farm": 0.0
+  },
+  "click_multiplier": 1,
+  "diamond": 0,
+  "diamond_prod": 0,
+  "permanent_slot_levels": [
+    0,
+    0,
+    0
+  ],
+  "permanent_slots": [
+    null,
+    null,
+    null
+  ],
+  "rebirth_bonus_pct": 0.0,
+  "rebirth_cash_bonus": 1.0,
+  "rebirth_count": 0,
+  "rebirth_points": 0,
+  "total_clicks": 0,
+  "total_diamonds_earned": 0,
+  "upgrade_levels": {
+    "click": 0,
+    "fortune": 0,
+    "production": 0
+  }
+}
